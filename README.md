@@ -1,6 +1,9 @@
 # Self-Driving-Basics-Project
 
-For A** search the main logic implementation is in Self-Driving-Basics-Project/A*_search/jupyterwork/student_code.py
+Following are the path to main logic implementation for the projects. 
 
-For Matrix Class implementation functions are defined in Self-Driving-Basics-Project/Matrix Class Implementation/jupyterwork/matrix.py
+For A** search - Self-Driving-Basics-Project/A*_search/jupyterwork/student_code.py
 
+For Matrix Class implementation -  Self-Driving-Basics-Project/Matrix Class Implementation/jupyterwork/matrix.py
+
+For Traffic light Classifier - Self-Driving-Basics-Project/Traffic Light Classifier/jupyterwork/Traffic_Light_Classifier.ipynb
